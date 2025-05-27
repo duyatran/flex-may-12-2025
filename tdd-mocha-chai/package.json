@@ -1,0 +1,14 @@
+{
+  "name": "fun-with-mocha",
+  "version": "0.0.1",
+  "description": "Experimenting with mocha",
+  "main": "sayHello.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^11.5.0"
+  }
+}
