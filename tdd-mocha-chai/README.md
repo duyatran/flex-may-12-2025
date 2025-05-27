@@ -1,4 +1,4 @@
-# W02D01 - TDD, CommonJS, and NPM
+# M01D03 - TDD with Mocha & Chai
 
 ### To Do
 - [ ] Manual testing
